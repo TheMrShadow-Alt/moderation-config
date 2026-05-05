@@ -1,12 +1,7 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-05T01:56:15.561Z",
+  "lastUpdated": "2026-05-05T02:03:25.010Z",
   "admins": [
-    {
-      "displayName": "ExampleOwner",
-      "userId": "usr_xxxxxxxxxxxxxxxxxxxx",
-      "rank": "owner"
-    },
     {
       "displayName": "ExampleAdmin",
       "userId": "usr_yyyyyyyyyyyyyyyyyyyy",
