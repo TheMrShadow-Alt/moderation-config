@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-05T00:32:34.015Z",
+  "lastUpdated": "2026-05-05T00:32:50.849Z",
   "admins": [
     {
       "displayName": "ExampleOwner",
@@ -31,7 +31,7 @@
     {
       "displayName": "BadUser",
       "userId": "usr_bbbbbbbbbbbbbbbbbbbb",
-      "reason": "Rule violation",
+      "reason": "Rule violation/Not Pengu",
       "expires": "never"
     }
   ],
