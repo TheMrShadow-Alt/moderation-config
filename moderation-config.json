@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-05T01:41:49.517Z",
+  "lastUpdated": "2026-05-05T01:50:25.131Z",
   "admins": [
     {
       "displayName": "ExampleOwner",
@@ -57,7 +57,7 @@
   "settings": {
     "banRoomEnabled": true,
     "adminPanelEnabled": true,
-    "autoRefreshSeconds": 120,
+    "autoRefreshSeconds": 30,
     "maintenanceMode": false,
     "announcementMessage": "Welcome to the world."
   }
