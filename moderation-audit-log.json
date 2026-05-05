@@ -1,1 +1,12 @@
-
+{
+  "entries": [
+    {
+      "id": "audit_001",
+      "admin": "admin",
+      "action": "update_config",
+      "target": "moderation-config.json",
+      "timestamp": "2026-05-04T00:00:00.000Z",
+      "summary": "Initial config created"
+    }
+  ]
+}
