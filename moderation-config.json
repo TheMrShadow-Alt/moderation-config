@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-07T01:13:57.981Z",
+  "lastUpdated": "2026-05-07T01:15:17.807Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -39,12 +39,6 @@
       "userId": "",
       "reason": "Not Pengu",
       "expires": "9/19/27"
-    },
-    {
-      "displayName": "Ṣqůìṣĥÿ༒Đıø",
-      "userId": "usr_6a7197be-e5f5-4bd3-b75c-062ed9f92bf6",
-      "reason": "Bad",
-      "expires": "never"
     }
   ],
   "muted": [
