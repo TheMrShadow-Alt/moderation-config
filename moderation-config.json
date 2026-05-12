@@ -1,11 +1,16 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-12T00:51:20.651Z",
+  "lastUpdated": "2026-05-12T00:53:43.792Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
       "userId": "usr_yyyyyyyyyyyyyyyyyyyy",
       "rank": "admin"
+    },
+    {
+      "displayName": "Mř༒Şħãďø₩¿",
+      "userId": "",
+      "rank": "owner"
     }
   ],
   "moderators": [
