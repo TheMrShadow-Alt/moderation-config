@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-06-27T22:45:01.602Z",
+  "lastUpdated": "2026-06-27T22:45:37.260Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -24,6 +24,11 @@
     {
       "displayName": "TrustedUser",
       "userId": "usr_aaaaaaaaaaaaaaaaaaaa",
+      "rank": "trusted"
+    },
+    {
+      "displayName": "Ṣqůìṣĥÿ༒J̌əŋ",
+      "userId": "",
       "rank": "trusted"
     }
   ],
