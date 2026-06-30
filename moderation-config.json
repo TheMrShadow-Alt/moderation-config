@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-06-30T19:06:58.730Z",
+  "lastUpdated": "2026-06-30T19:09:34.433Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -44,6 +44,12 @@
       "userId": "",
       "reason": "Not Pengu",
       "expires": "9/19/27"
+    },
+    {
+      "displayName": "Mř༒Şħãďø₩¿",
+      "userId": "",
+      "reason": "Test",
+      "expires": "never"
     }
   ],
   "muted": [
