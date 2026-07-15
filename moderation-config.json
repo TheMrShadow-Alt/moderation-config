@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-15T02:45:59.778Z",
+  "lastUpdated": "2026-07-15T02:47:09.837Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -44,12 +44,6 @@
       "userId": "",
       "reason": "Not Pengu",
       "expires": "9/19/27"
-    },
-    {
-      "displayName": "Nicks Alibi",
-      "userId": "usr_2b41160e-d122-458b-9017-4c8f3491fef9",
-      "reason": "Not Pengu",
-      "expires": "never"
     }
   ],
   "muted": [
