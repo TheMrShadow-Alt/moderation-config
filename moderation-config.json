@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-15T02:47:09.837Z",
+  "lastUpdated": "2026-07-16T15:48:03.078Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -25,11 +25,6 @@
       "displayName": "TrustedUser",
       "userId": "usr_aaaaaaaaaaaaaaaaaaaa",
       "rank": "trusted"
-    },
-    {
-      "displayName": "Ṣqůìṣĥÿ༒J̌əŋ",
-      "userId": "",
-      "rank": "trusted"
     }
   ],
   "banned": [
@@ -44,6 +39,12 @@
       "userId": "",
       "reason": "Not Pengu",
       "expires": "9/19/27"
+    },
+    {
+      "displayName": "༒GΞN༒ȘMØKΞƳ༒",
+      "userId": "usr_aae1a03c-5530-4a03-bf1e-6a38073ce6cc",
+      "reason": "Copyright Infringement/World Ripping",
+      "expires": "never"
     }
   ],
   "muted": [
