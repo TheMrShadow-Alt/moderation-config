@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-22T02:15:08.162Z",
+  "lastUpdated": "2026-07-22T02:18:11.617Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -44,12 +44,6 @@
       "displayName": "Agent_Mossad",
       "userId": "usr_b3b8e232-108b-4368-bdba-78fc10fa375b",
       "reason": "Copyright Infringement/World Ripping",
-      "expires": "never"
-    },
-    {
-      "displayName": "Mř༒Şħãďø₩¿",
-      "userId": "",
-      "reason": "Pengu",
       "expires": "never"
     }
   ],
