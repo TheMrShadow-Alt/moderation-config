@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "id": "audit_1784686708048",
+      "admin": "MrShadow",
+      "action": "update_config",
+      "target": "moderation-config.json",
+      "timestamp": "2026-07-22T02:18:28.048Z",
+      "summary": "Updated banned users"
+    },
+    {
       "id": "audit_1784686692835",
       "admin": "MrShadow",
       "action": "update_config",
