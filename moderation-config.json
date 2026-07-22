@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-22T00:25:33.892Z",
+  "lastUpdated": "2026-07-22T01:54:37.687Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -28,12 +28,6 @@
     }
   ],
   "banned": [
-    {
-      "displayName": "BadUser",
-      "userId": "usr_bbbbbbbbbbbbbbbbbbbb",
-      "reason": "Rule violation/Not Pengu",
-      "expires": "never"
-    },
     {
       "displayName": "1aa1",
       "userId": "",
