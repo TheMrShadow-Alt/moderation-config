@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-20T20:24:10.876Z",
+  "lastUpdated": "2026-07-22T00:23:57.082Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -43,6 +43,12 @@
     {
       "displayName": "༒GΞN༒ȘMØKΞƳ༒",
       "userId": "usr_aae1a03c-5530-4a03-bf1e-6a38073ce6cc",
+      "reason": "Copyright Infringement/World Ripping",
+      "expires": "never"
+    },
+    {
+      "displayName": "Mř༒Şħãďø₩¿",
+      "userId": "",
       "reason": "Copyright Infringement/World Ripping",
       "expires": "never"
     }
