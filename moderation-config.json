@@ -1,15 +1,10 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-22T02:18:26.755Z",
+  "lastUpdated": "2026-07-23T19:46:03.979Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
       "userId": "usr_yyyyyyyyyyyyyyyyyyyy",
-      "rank": "admin"
-    },
-    {
-      "displayName": "Ṣqůìṣĥÿ༒J̌əŋ",
-      "userId": "",
       "rank": "admin"
     }
   ],
