@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-23T19:46:03.979Z",
+  "lastUpdated": "2026-07-23T19:46:24.551Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -12,6 +12,11 @@
     {
       "displayName": "ExampleMod",
       "userId": "usr_zzzzzzzzzzzzzzzzzzzz",
+      "rank": "moderator"
+    },
+    {
+      "displayName": "Mř༒Şħãďø₩¿",
+      "userId": "",
       "rank": "moderator"
     }
   ],
