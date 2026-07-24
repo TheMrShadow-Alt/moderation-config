@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-24T21:42:19.331Z",
+  "lastUpdated": "2026-07-24T21:44:07.380Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -44,18 +44,6 @@
       "displayName": "Agent_Mossad",
       "userId": "usr_b3b8e232-108b-4368-bdba-78fc10fa375b",
       "reason": "Copyright Infringement/World Ripping",
-      "expires": "never"
-    },
-    {
-      "displayName": "~MrBobby~",
-      "userId": "usr_8f420446-24f3-4b3a-8e54-dbc2b782589b",
-      "reason": "Eating to much",
-      "expires": "7/25/26"
-    },
-    {
-      "displayName": "Bobby son 21",
-      "userId": "usr_2c382c53-e1c5-4e29-83ac-5774e57a995a",
-      "reason": "Eating to much",
       "expires": "never"
     }
   ],
