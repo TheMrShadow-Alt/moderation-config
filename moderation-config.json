@@ -1,6 +1,6 @@
 {
   "version": "0.2.7 [Beta]",
-  "lastUpdated": "2026-07-24T21:39:19.948Z",
+  "lastUpdated": "2026-07-24T21:42:19.331Z",
   "admins": [
     {
       "displayName": "ExampleAdmin",
@@ -51,6 +51,12 @@
       "userId": "usr_8f420446-24f3-4b3a-8e54-dbc2b782589b",
       "reason": "Eating to much",
       "expires": "7/25/26"
+    },
+    {
+      "displayName": "Bobby son 21",
+      "userId": "usr_2c382c53-e1c5-4e29-83ac-5774e57a995a",
+      "reason": "Eating to much",
+      "expires": "never"
     }
   ],
   "muted": [
